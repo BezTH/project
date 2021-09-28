@@ -2,6 +2,12 @@
     min-height: 650px;
     padding: 21px 0 93px 0;
     background: url(../img/main.png) center (center/cover) no-repeat;
+    
+    &__con {
+        max-width: 950px;
+        margin: 0 auto;
+    }
+    
     &__wrapper {
         display: flex;
         flex-direction: column;
