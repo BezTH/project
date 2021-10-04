@@ -5,7 +5,16 @@
 @import 'blocks/block-2';
 @import 'blocks/forms';
 @import 'blocks/buttons';
+@import 'blocks/carousel';
+@import 'blocks/catalog';
+@import 'blocks/reviews';
+@import 'blocks/footer';
 @import 'media/media';
+
 * { 
     font-family:'MuseoSansCyrl', sans-serif; 
+}
+
+.container {
+    max-width: 950px;
 }
